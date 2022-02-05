@@ -1,6 +1,6 @@
-# <center>💀Spooktober 2💀<br/>Spook Them All</center>
+# Spooktober 2: Spook Them All
 
-## <center>— Alright, What The Fresh Heck Is This? —</center>
+### — Alright, What The Fresh Heck Is This?
 
 Remember **Spooktober**? Oh, that was a good time, the very first community map project I led. Come to think of it, it's been four years since then *(as of writing this)*, and the idea just came up among friends that perhaps a sequel is due. And, after the flop of trying to organize a **Strife** project, it does seem like this will instead become the thrilling conclusion to the **Lords of Terror** trilogy after all. How interesting...
 
@@ -8,7 +8,7 @@ This time around, the story takes us to a haunted mall. Long since abandoned due
 
 And so, it is up to you, the player, to do so. Driven by the conviction that there might be some juicy reward waiting, you have answered the call of the elusive *"Man in the Mirror"*, and nothing will stop you on this quest, not even the fresh corpses of others who tried before you.
 
-## <center>— Project Organization —</center>
+### — Project Organization
 
 For now I'd just like to have one map per author. This of course excludes me doing the hub, final map, ~~and super-secret true final boss map~~ *(shhhh, you didn't just read that)*.
 
@@ -18,11 +18,11 @@ The maps have to be either something spooky, or just simply fitting the theme of
 
 The number of map slots hasn't been decided yet, but I will announce that once I've got a rough layout of the hub done. Feel free to contact me if you wish to participate, nevertheless, and I'll keep you updated on when this thing will formally begin.
 
-## <center>— Assets And Whatnot —</center>
+### — Assets And Whatnot
 
 Feel free to suggest any texture packs to be included for the maps, as well as custom monsters. So as to keep things safely compatible with gameplay mods, let's avoid custom weapons and items this time. For music, try to go with sequenced formats like midi or tracker modules if you can, to not bloat things with large streamed audio files.
 
-## <center>— Whatever Else —</center>
+### — Whatever Else
 
 I think that's all I have to say for now. I plan to start working on this between August/September of 2022, hope to see you all then.
 
