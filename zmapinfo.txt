@@ -1,0 +1,110 @@
+GameInfo
+{
+	AddEventHandlers = "SP2Handler"
+}
+
+Cluster 666
+{
+	Hub
+}
+
+ClearEpisodes
+
+Episode SP2HUB
+{
+	name = "$SP2_EPI"
+}
+
+DefaultMap
+{
+	Cluster = 666
+	NoIntermission
+	ResetInventory
+	ResetHealth
+	UnFreezeSinglePlayerConversations
+}
+
+Map SP2HUB lookup "SP2_HUSTR_HUB"
+{
+	EvenLighting
+	Music = "S2_HUB"
+	Next = EndTitle
+	SecretNext = EndTitle
+	Author = "$SP2_AUTH_MARISA"
+	LevelNum = 1
+	LightAdditiveSurfaces = 1
+	DisableSkyboxAO
+}
+
+AddDefaultMap
+{
+	Next = "SP2HUB"
+	SecretNext = "SP2HUB"
+	ForgetState
+}
+
+Map SP2MAP01 lookup "SP2_HUSTR_MAP01"
+{
+	LevelNum = 2
+}
+Map SP2MAP02 lookup "SP2_HUSTR_MAP02"
+{
+	LevelNum = 3
+}
+Map SP2MAP03 lookup "SP2_HUSTR_MAP03"
+{
+	LevelNum = 4
+}
+Map SP2MAP04 lookup "SP2_HUSTR_MAP04"
+{
+	LevelNum = 5
+}
+Map SP2MAP05 lookup "SP2_HUSTR_MAP05"
+{
+	LevelNum = 6
+}
+Map SP2MAP06 lookup "SP2_HUSTR_MAP06"
+{
+	LevelNum = 7
+}
+Map SP2MAP07 lookup "SP2_HUSTR_MAP07"
+{
+	LevelNum = 8
+}
+Map SP2SCR01 lookup "SP2_HUSTR_SCR01"
+{
+	LevelNum = 9
+}
+Map SP2SCR02 lookup "SP2_HUSTR_SCR02"
+{
+	LevelNum = 10
+}
+Map SP2SCR03 lookup "SP2_HUSTR_SCR03"
+{
+	LevelNum = 11
+}
+Map SP2FBOSS lookup "SP2_HUSTR_FBOSS"
+{
+	EvenLighting
+	Music = "S2_CFOUT"
+	Author = "$SP2_AUTH_MARISA"
+	LevelNum = 12
+	LightAdditiveSurfaces = 1
+	DisableSkyboxAO
+}
+Map SP2SBOSS lookup "SP2_HUSTR_SBOSS"
+{
+	EvenLighting
+	Music = "HMIRRORM"
+	Author = "$SP2_AUTH_MARISA"
+	LevelNum = 13
+	LightAdditiveSurfaces = 1
+	DisableSkyboxAO
+}
+
+DoomEdNums
+{
+	29000 = SP2MallSky_Dome
+	29001 = SP2MallSky_Clouds
+	29002 = SP2MallSky_Mountains
+}

@@ -1,0 +1,47 @@
+// skybox actors
+
+Class SP2MallSky_Dome : Actor
+{
+	Default
+	{
+		+NOINTERACTION;
+	}
+	override void Tick(){}
+	States
+	{
+	Spawn:
+		PLAY A -1 Bright;
+		Stop;
+	}
+}
+Class SP2MallSky_Clouds : Actor
+{
+	Default
+	{
+		RenderStyle "Translucent";
+		Alpha .9;
+		+NOINTERACTION;
+	}
+	override void Tick(){}
+	States
+	{
+	Spawn:
+		PLAY A -1;
+		Stop;
+	}
+}
+Class SP2MallSky_Mountains : Actor
+{
+	Default
+	{
+		RenderStyle "Translucent";
+		+NOINTERACTION;
+	}
+	override void Tick(){}
+	States
+	{
+	Spawn:
+		PLAY A -1;
+		Stop;
+	}
+}

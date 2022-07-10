@@ -1,0 +1,4 @@
+// global event handler
+Class SP2Handler : StaticEventHandler
+{
+}

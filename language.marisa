@@ -1,0 +1,221 @@
+[default]
+SP2_EPI = "Spooktober II: Spook Them All";
+SP2_HUSTR_HUB = "Haunted Mall";
+SP2_HUSTR_MAP01 = "(Unnamed)";
+SP2_HUSTR_MAP02 = "(Unnamed)";
+SP2_HUSTR_MAP03 = "(Unnamed)";
+SP2_HUSTR_MAP04 = "(Unnamed)";
+SP2_HUSTR_MAP05 = "(Unnamed)";
+SP2_HUSTR_MAP06 = "(Unnamed)";
+SP2_HUSTR_MAP07 = "(Unnamed)";
+SP2_HUSTR_SCR01 = "(Unnamed)";
+SP2_HUSTR_SCR02 = "(Unnamed)";
+SP2_HUSTR_SCR03 = "(Unnamed)";
+SP2_HUSTR_FBOSS = "Cathedral of Flesh";
+SP2_HUSTR_SBOSS = "The Endless Plain";
+SP2_AUTH_MARISA = "Marisa the Magician";
+
+// hub messages
+SP2_DLG1_HDR = "\cu??????\c-";
+SP2_DLG1_TXT1 = "Welcome, YOU who have answered the call. Many HAVE faced THIS challenge before, but none HAVE survived.";
+SP2_DLG1_TXT2 = "Will YOU be ANY different? That is YET to be seen. Go forth, WOULD-be hero, face THE many horrors of this place.";
+SP2_DLG1_TXT3 = "Seek the VARIOUS illustrations scattered throughout THIS locale, AND enter the worlds within.";
+SP2_DLG1_TXT4 = "Pay NO mind to my presence, I am HERE but to observe, ON behalf of the true master of THIS place.";
+// 1stage
+SP2_DLG1_TXT5 = "You appear to BE making progress, excellent. DO continue.";
+// 3stage
+SP2_DLG1_TXT6 = "VERY good, you may be the MOST promising candidate we've encountered so FAR.";
+SP2_DLG1_TXT7 = "Perhaps you CAN surpass this challenge, BUT that's YET to be seen.";
+// 5stage
+SP2_DLG1_TXT8 = "A keen observer WOULD note that the master is not VERY skilled at crafting believable locations.";
+SP2_DLG1_TXT9 = "Oh... Do NOT let them know I HAVE said that, they would SURELY dispose of me FOR that comment.";
+SP2_DLG1_TXT10 = "Please, continue on YOUR adventure, challenger, your victory draws NEAR, almost.";
+// 7stage
+SP2_DLG1_TXT11 = "All IS complete, and you shall SOON be the hero of THIS tale. One final challenge REMAINS.";
+SP2_DLG1_TXT12 = "Seek THE chapel, and the FINAL world within, the dwelling of THE master's most perfect creation YET.";
+SP2_DLG1_TXT13 = "GOOD luck.";
+// fboss
+SP2_DLG1_TXT14 = "You HAVE succeeded. The master has acknowledged YOU, so... You ARE free to go.";
+SP2_DLG1_TXT15 = "Return to YOUR home, and forget THIS ordeal. For you, IT shall be no MORE than a fleeting dream.";
+SP2_DLG1_TXT16 = "Farewell, IT has been an HONOR to bear witness to YOUR adventure.";
+// 1sstage
+SP2_DLG1_TXT17 = "Hm... So it seems YOUR thirst for adventure HAS not been sated. You fancy yourself A secret hunter, correct?";
+SP2_DLG1_TXT18 = "There ARE secrets about the master as WELL, that even they DO not know. Memories of a PAST life, locked away.";
+SP2_DLG1_TXT19 = "Maybe BY uncovering these worlds that they HAVE left hidden, WE could learn something, maybe NOT...";
+// 3sstage
+SP2_DLG1_TXT20 = "I HAVE... Bad news. The master SEEMS to have taken notice of WHAT you've done. They wish to meet YOU in person.";
+SP2_DLG1_TXT21 = "Come, follow ALONG. Enter THE darkness behind me, so that you MAY stand before THE Overseer of Terror.";
+SP2_DLG1_TXT22 = "THE master awaits, GOOD luck.";
+// sboss
+SP2_DLG1_TXT23 = "Please leave NOW, you have DONE more than enough.";
+SP2_DLG1_TXT24 = "Leave, before THE master's anger gets worse.";
+// sbossfail
+SP2_DLG1_TXT25 = "So YOU'VE backed down from THE challenge. A MOST wise choice. The master's power IS insurmountable, after all.";
+SP2_DLG1_TXT26 = "Return to YOUR home, then. Remember our deal, you SHALL forget what you've seen on THIS day, soon enough.";
+SP2_DLG1_TXT27 = "Farewell, hero. WE shall remember you.";
+
+SP2_MSG1 = "What the hell...?";
+SP2_MSG2 = "There are seven candles here.";
+SP2_MSG3 = "One candle is lit up.";
+SP2_MSG4 = "%s candles are lit up.";
+SP2_MSG4_2 = "Two";
+SP2_MSG4_3 = "Three";
+SP2_MSG4_4 = "Four";
+SP2_MSG4_5 = "Five";
+SP2_MSG4_6 = "Six";
+SP2_MSG4_7 = "All";
+SP2_MSG5 = "The \"W\" fell off, so it looks like it says \"Omen\". Heh...";
+SP2_MSG6 = "This one's the same, too.";
+SP2_MSG7 = "Another \"Omen\", huh?";
+SP2_MSG8 = "I can't go back yet.";
+SP2_MSG9 = "Time to leave...";
+
+SP2_EXITTEXT1 =
+"And so, after surviving the many ordeals of the haunted mall,\n"
+"you make your way outside. The silence of the night welcomes you,\n"
+"the calm after the storm that you've just faced, and at last,\n"
+"you begin your long trek back home.\n"
+"\n"
+"The streets are quiet, save for the occasional passing car,\n"
+"it's just you alone, and your thoughts.\n"
+"\n"
+"You reflect on what's happened tonight, this whole adventure.\n"
+"As time passes, you wonder if all of this really happened,\n"
+"or if it was all just a dream.\n"
+"\n"
+"Perhaps, when you wake up in the morning, you'll know for sure.";
+SP2_EXITTEXT2N =
+"The next morning, you, and everyone in the city, are abruptly\n"
+"awoken by a deafening explosion. The earth shakes under your\n"
+"feet, as you look through the window and see, in the distance,\n"
+"where that mall used to be... An enormous mushroom cloud rising\n"
+"into the sky. Once more, just like five years ago, the horror\n"
+"leaves this world with a bang.\n"
+"        \n"
+"... At least, it's not raining skeletons this time.\n"
+"        \n"
+"        THE END";
+SP2_EXITTEXT2S =
+"The next morning, you decide to go back. To your surprise,\n"
+"the mall is still there, it didn't go away or anything.\n"
+"\n"
+"Walking up to the entrance, you notice that the shutter\n"
+"won't budge even one bit. It's completely shut tight.\n"
+"\"Weird\", you think, \"I swear it was open last night.\"\n"
+"        \n"
+"Maybe it was all a dream, after all. Everything that you\n"
+"thought you saw in this place, all of it, just a bad dream.\n"
+"\n"
+"You laugh to yourself, but as you turn around to leave...";
+SP2_EXITTEXT3S =
+"\"I thought I told you to go away!\"\n"
+"\n"
+"The Mirror Man is standing right there, in direct sunlight,\n"
+"just a few feet away from you.\n"
+"\n"
+"\"I'm packing up and leaving. I've had enough of all this.\n"
+"The whole Lords of Terror business, all this about building\n"
+"haunted spaces, I'm done with all of it.\"\n"
+"\n"
+"Then, their grin widens. \"By the way, you picked the worst\n"
+"time to show up. I don't think you'll survive the blast.\"";
+SP2_EXITTEXT4S =
+"Before you could react, everything went up into flames.\n"
+"        \n"
+"Soon enough the authorities arrived and onlookers gathered,\n"
+"curious about this incident. Where the mall once stood,\n"
+"there was nothing but a gigantic steaming crater now.\n"
+"    \n"
+"And right at its very center, one single survivor...\n"
+"    \n"
+"In your back, the words \"Happy Halloween\" were hastily\n"
+"scribbled with red paint. After your recovery, you were\n"
+"questioned about this incident, but no one believed you.\n"
+"    \n"
+"How very unfortunate...\n"
+"        \n"
+"        THE END";
+
+// CoF messages
+SP2_DLG2_HDR = "\cbEngraving\c-";
+SP2_DLG2_TXT1 = "You, who once were called Lords, buried here at the foot of our most sacred beacon, we call upon you.";
+SP2_DLG2_TXT2 = "Let it be known, that the day has come. For the dregs of your defeated past form to birth new life.";
+SP2_DLG2_TXT3 = "You, our predecessors, those who fought and died for the whims of our creator, may you serve us once more.";
+SP2_DLG2_TXT4 = "Come, rise up, may your ashen bones be wrapped once more in the beauty of the flesh. Come to our aid.";
+SP2_DLG2_TXT5 = "Under our command, as your true successor, rise and be reborn. For that is the will of your Dreadful Lady.";
+
+SP2_DLG3_HDR = "\ciDreadful Lady\c-";
+SP2_DLG3_TXT1 = "So, here you are at last, child of man. You have bested all of our challenges... Only we remain now.";
+SP2_DLG3_TXT2 = "We know you are here to kill us, that is what you wish to do. But we must warn you, our strength will prevail.";
+SP2_DLG3_TXT3 = "You will be given one offer, one only, for your redemption. Surrender yourself to us, and all shall be forgiven.";
+SP2_DLG3_TXT4 = "You, who have proven your might to us. Join us, and together we shall cleanse this diseased world.";
+SP2_DLG3_TXT5 = "Come now, and embrace the beauty of the flesh. Come forth, child of man... Lest you'd choose death over eternal life.";
+
+SP2_MSG10 = "There's an engraving here, it looks freshly written.";
+SP2_MSG11 = "I shouldn't have read that out loud...";
+SP2_MSG12 = "I think I'll pass, fuck you.";
+SP2_MSG13 = "\ciThen, let it be known. You give us no other choice, but to rend apart your meager, ugly flesh.\c-";
+SP2_MSG14 = "\ciO, creator, witness us. We are to stand victorious as your one true Lord of Terror.\c-";
+SP2_MSG15 = "\ciYou persist, child of man, but soon your flesh shall be cleansed by us.\c-";
+SP2_MSG16 = "\ciFather... We are so sorry... Forgive us... We could not defeat the hero.\c-";
+SP2_MSG17 = "\ciFather, our heart aches... Our body cannot move... Please, come to our aid.\c-";
+SP2_MSG18 = "\ciThe embrace of your crimson ichor... Thank you, father.\c-";
+SP2_MSG19 = "What the hell just happened?";
+SP2_MSG20 = "\ciFoolish child of man! Let us show you the beauty of the flesh!\c-"; // should you opt to attack her straight away, show this instead of MSG13
+SP2_MSG21 = "\ciCome... Approach... Let us have a word with you...\c-"; // hint at her having dialogue (important)
+
+SP2_BOSS1 = "Flesh of the Verdant Mage";
+SP2_BOSS2 = "Flesh of the Demon Sorcerer";
+SP2_BOSS3 = "Dreadful Lady of the Beautiful Flesh";
+T_VLORD = "\cdVerdant Mage\c-";
+T_NLORD = "\ctDemon Sorcerer\c-";
+T_DLADY = "\ciDreadful Lady\c-";
+
+O_VLORD = "%o succumbed to the Verdant Mage.";
+O_VLORDHIT = "%o got too close to the Verdant Mage.";
+O_NLORD = "%o succumbed to the Demon Sorcerer.";
+O_NLORDHIT = "%o got too close to the Demon Sorcerer.";
+O_DLADY = "%o was cleansed by the Dreadful Lady.";
+O_DLADYHIT = "%o became food for the Dreadful Lady.";
+
+// EP messages
+SP2_DLG4_HDR = "\crMirror Man\c-";
+SP2_DLG4_TXT1 = "So we finally meet face to face... I must commend you for your victory against my Lord of Terror.";
+SP2_DLG4_TXT2 = "Allow me to properly introduce myself. I am called Mirror Man, but despite this name, I am no man.";
+SP2_DLG4_TXT3 = "My very nature is that of the chaos, from where I, like many others of my kind, was born.";
+SP2_DLG4_TXT4 = "Let me describe something to you, just so you have an idea of the situation at hand.";
+SP2_DLG4_TXT5 = "To a god's power in this universe, you are but a simple speck of dust in comparison, yes?";
+SP2_DLG4_TXT6 = "To any one of us, it is the god's power which amounts to less of a size even than that.";
+SP2_DLG4_TXT7 = "Indeed... You would be the biggest of fools if you were to challenge me.";
+SP2_DLG4_TXT8 = "So, if you really want to continue on your very mistaken path, I promise I'll even the playing field.";
+SP2_DLG4_TXT9 = "Yes, I am willing to only use an infinitesimal fraction of my ability for this would-be duel between us.";
+SP2_DLG4_TXT10 = "But if you'd rather not do that... I will let you go. Look into the mirror behind me, and find your way back home.";
+SP2_DLG4_TXT11 = "Should you wish to fight me, I'll let you land the first hit. The decision is yours.";
+SP2_DLG4_TXT12 = "The decision is yours...";
+// beat
+SP2_DLG4_TXT13 = "You actually defeated me? Maybe I should have set my health higher than that.";
+SP2_DLG4_TXT14 = "No matter, you won against me, the villain of this story, fair and square.";
+SP2_DLG4_TXT15 = "I suppose now I'm expected to surrender. Well, I would, if this were some lousy child's tale.";
+SP2_DLG4_TXT16 = "Oh, by the way, I think it should be time, right now. Yes, Halloween night...";
+SP2_DLG4_TXT17 = "Well, despite these unexpected events, I was entertained. I thank you for that.";
+SP2_DLG4_TXT18 = "Goodbye to you, hero... And to the one who sees me through your eyes. To you, too, farewell.";
+SP2_DLG4_TXT19 = "You've been a good player. I guess, not that I could tell, that's just the line I'm meant to say.";
+SP2_DLG4_TXT20 = "Hm? I'm going off the script? Well, excuse me, Marisa, you're the one who asked me to talk in this project.";
+SP2_DLG4_TXT21 = "You know what? I'm done. Three was enough, let this whole Lords of Terror business just be a trilogy.";
+SP2_DLG4_TXT22 = "Yes, that's right. Three whole projects, plus a cameo in Soundless Mound... And not counting the one in Spooktime.";
+SP2_DLG4_TXT23 = "Oh yes, why not? Let's talk about that whole disaster. Canned for being too ambitious? How totally unexpected...";
+SP2_DLG4_TXT24 = "*sigh*";
+SP2_DLG4_TXT25 = "... Oh, you're still here? Look, I'm opening the exit again. Just... Go. Go home already.";
+SP2_DLG4_TXT26 = "Go away already.";
+
+SP2_MSG22 = "\crI SEE YOU\c-";
+SP2_MSG23 = "\crThis is meant to be a fair fight. Close the console right now, or I'll do it myself.\c-";
+SP2_MSG24 = "\crThat's not going to work. No cheating allowed.\c-";
+SP2_MSG25 = "\crYou... You just removed my actor. Are you an actual idiot?\c-";
+SP2_MSG26 = "\crJust for that, I'm crashing your game.\c-";
+SP2_MSG27 = "\crFuck you.\c-";
+
+SP2_BOSS4 = "Mirror Man, Overseer of Terror";
+T_MRMN = "\crMirror Man\c-";
+
+O_MRMN = "%o should have backed off from this fight.";

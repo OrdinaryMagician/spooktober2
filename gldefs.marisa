@@ -1,0 +1,27 @@
+HardwareShader Texture "SP2SKY_2"
+{
+	Shader "shaders/glsl/CloudScroll.fp"
+	Define "SCROLLSPEED" = ".02"
+}
+HardwareShader Texture "SP2SKY_9"
+{
+	Shader "shaders/glsl/SkyDome.fp"
+}
+HardwareShader Texture "SP2SKY_A"
+{
+	Shader "shaders/glsl/SkyDome.fp"
+}
+HardwareShader Texture "SP2WATR1"
+{
+	Shader "shaders/glsl/DLWarp.fp"
+}
+HardwareShader Texture "SP2LAVA1"
+{
+	Shader "shaders/glsl/SLWarp.fp"
+	Speed 0.15
+}
+HardwareShader Texture "HMRMNFOG"
+{
+	Shader "shaders/glsl/DLWarp.fp"
+	Speed 0.25
+}

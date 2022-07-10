@@ -18,7 +18,7 @@ The maps have to be either something spooky, or just simply fitting the theme of
 
 The current plan is to have 13 maps. That's the sum of hub map, 7 regular maps, 3 secrets, final boss and secret boss.
 
-- **`SP2HUBMP`** - Haunted Mall *(Marisa Kirisame)*
+- **`SP2HUBMP`** - Haunted Mall *(Marisa the Magician)*
 - **`SP2MAP01`** - *FREE SLOT*
 - **`SP2MAP02`** - *FREE SLOT*
 - **`SP2MAP03`** - *FREE SLOT*
@@ -29,8 +29,8 @@ The current plan is to have 13 maps. That's the sum of hub map, 7 regular maps, 
 - **`SP2SCR01`** - *FREE SLOT*
 - **`SP2SCR02`** - *FREE SLOT*
 - **`SP2SCR03`** - *FREE SLOT*
-- **`SP2FBOSS`** - Cathedral of Flesh *(Marisa Kirisame)*
-- **`SP2SBOSS`** - The Endless Plain *(Marisa Kirisame)*
+- **`SP2FBOSS`** - Cathedral of Flesh *(Marisa the Magician)*
+- **`SP2SBOSS`** - The Endless Plain *(Marisa the Magician)*
 
 We're still far from the estimated start date for the project, and the layout of the hub and everything else isn't set in stone yet, but feel free to contact me if you wish to participate, nevertheless, and I'll keep you updated on when this thing will formally begin.
 

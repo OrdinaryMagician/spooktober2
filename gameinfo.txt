@@ -1,0 +1,6 @@
+iwad = "doom2.wad"
+startuptitle = "Spooktober II: Spook Them All"
+startupcolors = "ff 98 00", "30 30 30"
+startuptype = "doom"
+loadlights = 1
+loadbrightmaps = 1

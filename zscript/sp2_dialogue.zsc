@@ -1,0 +1,20 @@
+// new and improved™ dialogue system!
+//
+// what's new:
+// - uses actual zscript menus
+// - won't break saves
+// - portrait graphic wih speaker name
+// - support for choices (not used in spooktober 2)
+
+const DLG_NONE = -32768;	// character can't be talked to
+
+// entries must be equal to dlg_state array size in the state keeper thinker
+enum EDialogueCharacter
+{
+	CHAR_Observer,
+	CHAR_Engraving,
+	CHAR_DreadfulLady,
+	CHAR_MirrorMan,
+	MAX_DIALOGUE_CHARS
+};
+

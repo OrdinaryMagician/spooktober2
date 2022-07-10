@@ -1,0 +1,21 @@
+Assets:
+
+ - Doom Terrain Splashes: MagicWazard
+ - SP2TEX: Mishmash of downscaled textures from various UT packs. Credits go to
+           Rich "Akuma" Eastwood, Andy Monroe, Jean "El Chicoverde" Rochefort,
+           Evil-Lair, Sjoerd "Hourences" De Jong, as well as some other authors
+           that I cannot track down...
+ - Fonts: Souce Han Sans by Adobe (OSS license included in each font folder).
+
+Music:
+
+ - D_DM2TTL: "ALF" by Alexander Brandon (from Unreal)
+ - HMIRRORM: Edit of "bgm39" and "bgm40" by ｌｏｌ (from .flow)
+ - S2_CFOUT: "Alien Wind" by Marisa the Magician (from Purple Ambient Works VI)
+ - S2_DREAD: "継接キメラ" by -45 (from SunFleur)
+ - S2_DREGS: Unidentified dummied out track from Dark Souls 3
+ - S2_ENDIN: No credit, free audio
+ - S2_FLESH: "ネクロプリズン" by -45 (from クロユリ)
+ - S2_HUB: "bgm51" by ｌｏｌ (from .flow)
+ - S2_MRMN: "Beyond the Wayward Sun" by VAULT (from Demikhov's Haunt)
+ - S2_THEEND: "All Hallows Eve" by Alexander Brandon

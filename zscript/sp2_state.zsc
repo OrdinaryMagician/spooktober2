@@ -1,0 +1,59 @@
+// state keeper for hub
+
+Class SP2_State : Thinker
+{
+	bool completed[12];
+	int killed_monsters[12];
+	int total_monsters[12];
+	int found_items[12];
+	int total_items[12];
+	int found_secrets[12];
+	int total_secrets[12];
+	int clear_time[12];
+
+	int dlg_state[MAX_DIALOGUE_CHARS];
+
+	static clearscope bool IsMapCompleted( int levelnum )
+	{
+		let s = SP2_State(ThinkerIterator.Create("SP2_State").Next());
+		if ( !s ) return false;
+		return s.completed[levelnum-2];
+	}
+
+	static play void SetMapCompleted()
+	{
+		let s = SP2_State(ThinkerIterator.Create("SP2_State").Next());
+		if ( !s )
+		{
+			s = new("SP2_State");
+			s.ChangeStatNum(STAT_Static);
+		}
+		int l = level.levelnum-2;
+		s.completed[l] = true;
+		s.killed_monsters[l] = level.killed_monsters;
+		s.total_monsters[l] = level.total_monsters;
+		s.found_items[l] = level.found_items;
+		s.total_items[l] = level.total_items;
+		s.found_secrets[l] = level.found_secrets;
+		s.total_secrets[l] = level.total_secrets;
+		s.clear_time[l] = level.maptime;
+	}
+
+	static clearscope int GetDialogueState( int chr )
+	{
+		let s = SP2_State(ThinkerIterator.Create("SP2_State").Next());
+		if ( !s ) return 0;
+		return s.dlg_state[chr];
+	}
+
+	static play void SetDialogueState( int chr, int st )
+	{
+		let s = SP2_State(ThinkerIterator.Create("SP2_State").Next());
+		if ( !s )
+		{
+			s = new("SP2_State");
+			s.ChangeStatNum(STAT_Static);
+		}
+		s.dlg_state[chr] = st;
+	}
+}

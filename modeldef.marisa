@@ -1,0 +1,20 @@
+// Skybox models
+
+Model "SP2MallSky_Dome"
+{
+	Model 0 "models/Sky_Dome.obj"
+	Skin 0 "SP2SKY_A"
+	FrameIndex PLAY A 0 0
+}
+Model "SP2MallSky_Clouds"
+{
+	Model 0 "models/Sky_CloudLayer.obj"
+	Skin 0 "SP2SKY_2"
+	FrameIndex PLAY A 0 0
+}
+Model "SP2MallSky_Mountains"
+{
+	Model 0 "models/Sky_Mountains.obj"
+	Skin 0 "SP2SKY_8"
+	FrameIndex PLAY A 0 0
+}

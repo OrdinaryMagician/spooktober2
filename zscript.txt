@@ -1,0 +1,6 @@
+version "4.8.2"
+
+#include "zscript/sp2_dialogue.zsc"
+#include "zscript/sp2_state.zsc"
+#include "zscript/sp2_handler.zsc"
+#include "zscript/sp2_sky.zsc"
